@@ -1,6 +1,5 @@
-# block_breaker
-Block Breaker is a Java-based arcade game where players use a paddle to bounce a ball and break blocks. It features collision detection, scoring, and smooth GUI controls.
-## By Axionis
+# Block Breaker Game
+- ## By Axionis
 This is a simple Block Breaker game developed in Java using the Swing framework. The player controls a paddle to prevent the ball from falling, breaking blocks to earn points within a limited time.
 
 ## Table of Contents
@@ -46,3 +45,7 @@ handle rendering of the game objects (paddles, blocks, and ball).
 ## Team Information
 - Krishna Garg : 24SCSE1011337
 - Ayush Shivhare : 24SCSE1011022
+
+
+
+
