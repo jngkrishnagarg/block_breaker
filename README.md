@@ -44,7 +44,8 @@ handle rendering of the game objects (paddles, blocks, and ball).
 
 ## Team Information
 - Krishna Garg : 24SCSE1011337
-- Ayush Shivhare : 24SCSE1011022
+- Ayush Singh : 24SCSE1010009
+- Khushi Bhardwaj : 24SCSE1011466
 
 
 
